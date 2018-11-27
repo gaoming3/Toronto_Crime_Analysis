@@ -9,6 +9,8 @@ Toronto Police Service: Public Safety Data Portal
 ### Exploratory Analysis:
 From our result:
 Total Number of Major Crime over years increased every year from 2014-2017
+![alt text](http://url/to/img.png)
+
 
 
 
