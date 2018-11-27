@@ -24,3 +24,16 @@ Testing accuracy: 60.43% and Training Accuracy 64.32%
 ![alt text](https://github.com/gaoming3/Toronto_Crime_Analysis/blob/master/resultspicture/Capture7.PNG)
 7.ARIMA Crime prediction: Crime will most likely to go up if no police policy changes.
 ![alt text](https://github.com/gaoming3/Toronto_Crime_Analysis/blob/master/resultspicture/Capture8.PNG)
+
+Hope you enjoy!
+This work would'nt 
+
+### If you have any questions,feel free to shoot me a email :) 
+
+Mingkun Gao<br />
+mingkun.gao@mail.utoronto.ca<br />
+Toronto, Ontario
+
+Licensed under the [MIT License](LICENSE)
+
+Code without Shenwei Wang, kunlong li, Jialin Zhu would not have been possible.
