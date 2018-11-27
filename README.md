@@ -26,7 +26,6 @@ Testing accuracy: 60.43% and Training Accuracy 64.32%
 ![alt text](https://github.com/gaoming3/Toronto_Crime_Analysis/blob/master/resultspicture/Capture8.PNG)
 
 Hope you enjoy!
-This work would'nt 
 
 ### If you have any questions,feel free to shoot me a email :) 
 
